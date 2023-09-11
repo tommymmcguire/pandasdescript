@@ -6,3 +6,5 @@
 
 
 * Visualization of the distribution of wine ratings
+  
+![wine_rating](https://github.com/tommymmcguire/pandasdescript/assets/141086024/4703fd7b-7e56-4b55-8adb-4fea7237eea1)
