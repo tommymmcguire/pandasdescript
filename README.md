@@ -11,7 +11,7 @@
 <img width="518" alt="Screen Shot 2023-09-11 at 9 24 24 PM" src="https://github.com/tommymmcguire/pandasdescript/assets/141086024/eebf5945-aa21-4936-8cf7-960c518dcd53">
 
 
-* The test passes
+* Test Results
 
 <img width="1093" alt="Screen Shot 2023-09-11 at 2 22 37 PM" src="https://github.com/tommymmcguire/pandasdescript/assets/141086024/b328eb2f-d33e-43e8-976b-5747714cd163">
 
