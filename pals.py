@@ -3,12 +3,11 @@ import matplotlib.pyplot as plt
 
 csv_url = "https://raw.githubusercontent.com/paiml/wine-ratings/main/wine-ratings.csv"
 df = pd.read_csv(csv_url, index_col=0)
+df.drop(['grape'], axis=1, inplace=True)
+print(df.describe())
 
 def data_desc(csv_url):
-    df = pd.read_csv(csv_url, index_col=0)
-    df.drop(['grape'], axis=1, inplace=True)
     return df['rating'].count()
-# print(df.describe())
 
 
 plt.hist(df['rating'], bins=20, edgecolor='k')
