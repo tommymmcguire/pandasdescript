@@ -1,4 +1,6 @@
-### This is a descriptive pandas project for IDS 706
+[![Build Status](https://github.com/tommymmcguire/pandasdescript/actions/workflows/python.yml/badge.svg)](https://github.com/tommymmcguire/pandasdescript/actions)
+
+## This is a descriptive pandas project for IDS 706
 
 * The test passes
 
